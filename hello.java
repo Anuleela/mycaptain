@@ -4,5 +4,5 @@ public void printinfo ()
 }
 public static void main ( String args [] )
 {
-    println(" Hello world ");
+   system.output.println(" Hello world ");
 }
